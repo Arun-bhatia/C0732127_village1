@@ -10,6 +10,15 @@ namespace C0732127_village1
     {
         static void Main(string[] args)
         {
+
         }
+    }
+    public class Village
+    {
+        public Village()
+        {
+
+        }
+        Console.WriteLine("Village")
     }
 }
