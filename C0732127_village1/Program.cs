@@ -19,6 +19,8 @@ namespace C0732127_village1
         {
 
         }
-        Console.WriteLine("Village");
+        public void villa() {
+            Console.WriteLine("Village");
+        }
     }
 }
